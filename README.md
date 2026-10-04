@@ -12,7 +12,7 @@ To set up the project on your local machine, follow these steps:
 2. **Open new folder**
    `cd my-todo-app`
 3. **Make clone project**
-   `https://github.com/Elmira2505/react_todo_list.git`
+   `git clone https://github.com/Elmira2505/react_todo_list.git`
 4. **Install the dependencies to the local node_modules folder.**
    `npm install`
 
@@ -22,5 +22,6 @@ To set up the project on your local machine, follow these steps:
    `npm run dev`
 2. **Open in Browser:**
    Navigate to http://localhost:5173 to see the app in action.
+
 
 
