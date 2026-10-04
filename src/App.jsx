@@ -1,5 +1,4 @@
-
-import './App.css'
+import "./App.css";
 
 function App() {
   const todoList = [
@@ -9,16 +8,15 @@ function App() {
   ];
 
   return (
-    <>
+    <div>
       <h1>Todo List</h1>
-        <ul>
+      <ul>
         {todoList.map((todo) => (
           <li key={todo.id}>{todo.title}</li>
-          ))}
-    
+        ))}
       </ul>
-    </>
+    </div>
   );
 }
 
-export default App
+export default App;

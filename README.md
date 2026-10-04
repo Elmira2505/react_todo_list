@@ -12,7 +12,7 @@ To set up the project on your local machine, follow these steps:
 2. **Open new folder**
    `cd my-todo-app`
 3. **Make clone project**
-   `git clone https://github.com/Elmira2505/dream_react_todolist.git`
+   `https://github.com/Elmira2505/react_todo_list.git`
 4. **Install the dependencies to the local node_modules folder.**
    `npm install`
 
