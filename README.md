@@ -7,13 +7,11 @@ A simple Todo List web application that allows users to create, edit, complete, 
 
 To set up the project on your local machine, follow these steps:
 
-1. **Create a New Local Folder:**
-   `mkdir my_todo_app`
-2. **Navigate to the project folder:**
-   `cd my-todo-app`
-3. **Make clone project**
+1. **Make clone project**
    `git clone https://github.com/Elmira2505/react_todo_list.git`
-4. **Install the dependencies to the local node_modules folder.**
+2. **Navigate to the project folder:**
+   `cd react_todo_list`
+3. **Install the dependencies to the local node_modules folder.**
    `npm install`
 
 ## How to run the development server
