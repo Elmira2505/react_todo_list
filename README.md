@@ -1,6 +1,6 @@
 # Todo List
 
-A simple Todo List web application that allows users to create, edit, complete, and delete tasks. React Todo list applicacation,that allows users to add.  
+A simple Todo List web application that allows users to create, edit, complete, and delete tasks. React Todo list application,that allows users to add.  
  The project was built as a learning exercise to practice working with React JS
 
 ## Installation
