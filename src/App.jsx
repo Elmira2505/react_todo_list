@@ -2,12 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import TodoForm from "./TodoForm.jsx";
 import TodoList from "./TodoList.jsx";
-/*const todos = [
-      { id: 1, title: "review resources" },
-      { id: 2, title: "take notes" },
-      { id: 3, title: "code out app" },
-    ];
-    */
+
 function App() {
   const [todoList, setTodoList]= useState([ ])
   const addTodo = (todoTitle) => {
