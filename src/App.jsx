@@ -9,7 +9,7 @@ function App() {
     const newTodo = {
       id: Date.now(),
       title: todoTitle,
-      isComplited: false,
+      isCompleted: false,
     };
     setTodoList(previous => [newTodo, ...previous]);
   };
