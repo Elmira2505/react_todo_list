@@ -17,7 +17,7 @@ function App() {
     setTodoList(
       todoList.map((todo) => {
         if (todo.id === id) {
-          return { ...todo, isComplited: true };
+          return { ...todo, isCompleted: true };
         } else {
           return todo;
         }
